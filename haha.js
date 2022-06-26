@@ -341,6 +341,9 @@ PHAK.addEventListener("click", (e) => {
         alert("Booking successful!");
         var ssed = Number(seatSelected) % 100;
         console.log(ssed);
+        var ssms = document.getElementsByName("sss")[ssed-1];
+        ssms.classList.remove("selected");
+        ssms.classList.add("myseat");
         $.ajax({
             url:'bookingSeatsConfirm.php',//Purpose php file
             async:false,
