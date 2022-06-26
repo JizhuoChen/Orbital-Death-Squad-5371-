@@ -1,10 +1,10 @@
-<?php
+<?php 
 header('Content-Type: text/html; charset=utf-8');
 $username1 = $_POST['username'];
 $userPwd = $_POST['userPwd'];
 //database information:
-$servername = "localhost";
-$username = "root";
+$servername = "localhost"; 
+$username = "root"; 
 $password = "root";
 $dbname = "test";
 //connect to database:
@@ -25,7 +25,9 @@ else if($result->num_rows > 0){
     $row = $result->fetch_row();
     $db_userpwd = $row[0];
     if($db_userpwd==$userPwd){
-        echo 'Welcome'.$username1.'Login';
+        //echo 'Welcome'.$username1.'Login';
+        //echo "<a href='mainpage1.html'>Continue</a>";
+        header("location:mainpage1.html?$username1");
     }else{
         echo '<script>alert("Wrong username or password"); history.go(-1);</script>';
     }
