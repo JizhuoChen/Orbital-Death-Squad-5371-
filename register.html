@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+    <style type="text/css">
+    body{
+        background-image: url(pic/library3.jpg);
+        background-size: cover;
+    }
+
+    .confirmPassword {
+        margin-left: 0px;
+    }
+    </style>
+</head>
+<body>
+    <center>
+    <form action="register.php" method="post">
+        <img src="pic/nuslogo.png"><br>
+		<font size="7"><b>User Register</b></font><br>
+		<font size="4">Username:</font>
+		<input type="text" name="username" placeholder="enter a username"><br>
+		<font size="4">Password:</font>
+		<input type="password" name="userPwd" placeholder="enter a password"><br>
+		<font class="confirmPassword" size="4">Confirm password:</font>
+		<input type="password" name="reuserPwd" placeholder="enter your password again"><br>
+		<input type="submit" value="register">
+	</form>
+    </center>
+</body>
+</html>

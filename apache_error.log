@@ -1,0 +1,57 @@
+[Sun May 29 19:54:01.425171 2022] [mpm_winnt:notice] [pid 29728:tid 508] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.0.2u mod_fcgid/2.3.9 PHP/7.4.16 configured -- resuming normal operations
+[Sun May 29 19:54:01.426177 2022] [mpm_winnt:notice] [pid 29728:tid 508] AH00456: Server built: Jul  6 2021 12:22:16
+[Sun May 29 19:54:01.426177 2022] [core:notice] [pid 29728:tid 508] AH00094: Command line: 'D:\\MAMP\\bin\\apache\\bin\\httpd.exe -d D:/MAMP/bin/apache -f C:\\Users\\Public\\Documents\\Appsolute\\MAMPPRO\\conf\\httpd.conf'
+[Sun May 29 19:54:01.518194 2022] [mpm_winnt:notice] [pid 29728:tid 508] AH00418: Parent: Created child process 37712
+[Sun May 29 19:54:03.156914 2022] [mpm_winnt:notice] [pid 37712:tid 376] AH00354: Child: Starting 64 worker threads.
+[Sun May 29 21:28:11.819226 2022] [mpm_winnt:notice] [pid 29728:tid 508] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 29 21:28:13.832124 2022] [mpm_winnt:notice] [pid 37712:tid 376] AH00364: Child: All worker threads have exited.
+[Sun May 29 21:28:18.352586 2022] [mpm_winnt:notice] [pid 29728:tid 508] AH00430: Parent: Child process 37712 exited successfully.
+[Sun May 29 21:30:29.194735 2022] [mpm_winnt:notice] [pid 23984:tid 476] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.0.2u mod_fcgid/2.3.9 PHP/7.4.16 configured -- resuming normal operations
+[Sun May 29 21:30:29.194735 2022] [mpm_winnt:notice] [pid 23984:tid 476] AH00456: Server built: Jul  6 2021 12:22:16
+[Sun May 29 21:30:29.194735 2022] [core:notice] [pid 23984:tid 476] AH00094: Command line: 'D:\\MAMP\\bin\\apache\\bin\\httpd.exe -d D:/MAMP/bin/apache -f C:\\Users\\Public\\Documents\\Appsolute\\MAMPPRO\\conf\\httpd.conf'
+[Sun May 29 21:30:29.343779 2022] [mpm_winnt:notice] [pid 23984:tid 476] AH00418: Parent: Created child process 10556
+[Sun May 29 21:30:30.903640 2022] [mpm_winnt:notice] [pid 10556:tid 200] AH00354: Child: Starting 64 worker threads.
+[Sun May 29 21:34:41.069972 2022] [mpm_winnt:notice] [pid 23984:tid 476] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 29 21:34:43.086282 2022] [mpm_winnt:notice] [pid 10556:tid 200] AH00364: Child: All worker threads have exited.
+[Sun May 29 21:34:45.930378 2022] [mpm_winnt:notice] [pid 23984:tid 476] AH00430: Parent: Child process 10556 exited successfully.
+[Sun May 29 21:35:54.140827 2022] [mpm_winnt:notice] [pid 32980:tid 476] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.0.2u mod_fcgid/2.3.9 PHP/7.4.16 configured -- resuming normal operations
+[Sun May 29 21:35:54.140827 2022] [mpm_winnt:notice] [pid 32980:tid 476] AH00456: Server built: Jul  6 2021 12:22:16
+[Sun May 29 21:35:54.140827 2022] [core:notice] [pid 32980:tid 476] AH00094: Command line: 'D:\\MAMP\\bin\\apache\\bin\\httpd.exe -d D:/MAMP/bin/apache -f C:\\Users\\Public\\Documents\\Appsolute\\MAMPPRO\\conf\\httpd.conf'
+[Sun May 29 21:35:54.296485 2022] [mpm_winnt:notice] [pid 32980:tid 476] AH00418: Parent: Created child process 38792
+[Sun May 29 21:35:55.829812 2022] [mpm_winnt:notice] [pid 38792:tid 400] AH00354: Child: Starting 64 worker threads.
+[Sun May 29 21:37:16.681015 2022] [mpm_winnt:notice] [pid 32980:tid 476] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 29 21:37:18.694024 2022] [mpm_winnt:notice] [pid 38792:tid 400] AH00364: Child: All worker threads have exited.
+[Sun May 29 21:37:19.624323 2022] [mpm_winnt:notice] [pid 32980:tid 476] AH00430: Parent: Child process 38792 exited successfully.
+[Sun May 29 21:37:53.974384 2022] [mpm_winnt:notice] [pid 26996:tid 464] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.0.2u mod_fcgid/2.3.9 PHP/7.4.16 configured -- resuming normal operations
+[Sun May 29 21:37:53.974384 2022] [mpm_winnt:notice] [pid 26996:tid 464] AH00456: Server built: Jul  6 2021 12:22:16
+[Sun May 29 21:37:53.974384 2022] [core:notice] [pid 26996:tid 464] AH00094: Command line: 'D:\\MAMP\\bin\\apache\\bin\\httpd.exe -d D:/MAMP/bin/apache -f C:\\Users\\Public\\Documents\\Appsolute\\MAMPPRO\\conf\\httpd.conf'
+[Sun May 29 21:37:54.065386 2022] [mpm_winnt:notice] [pid 26996:tid 464] AH00418: Parent: Created child process 36496
+[Sun May 29 21:37:55.693722 2022] [mpm_winnt:notice] [pid 36496:tid 404] AH00354: Child: Starting 64 worker threads.
+[Sun May 29 21:41:49.400546 2022] [mpm_winnt:notice] [pid 26996:tid 464] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 29 21:41:51.418058 2022] [mpm_winnt:notice] [pid 36496:tid 404] AH00364: Child: All worker threads have exited.
+[Sun May 29 21:41:54.330700 2022] [mpm_winnt:notice] [pid 26996:tid 464] AH00430: Parent: Child process 36496 exited successfully.
+[Sun May 29 21:49:44.490571 2022] [mpm_winnt:notice] [pid 23424:tid 484] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.0.2u mod_fcgid/2.3.9 PHP/7.4.16 configured -- resuming normal operations
+[Sun May 29 21:49:44.490571 2022] [mpm_winnt:notice] [pid 23424:tid 484] AH00456: Server built: Jul  6 2021 12:22:16
+[Sun May 29 21:49:44.490571 2022] [core:notice] [pid 23424:tid 484] AH00094: Command line: 'D:\\MAMP\\bin\\apache\\bin\\httpd.exe -d D:/MAMP/bin/apache -f C:\\Users\\Public\\Documents\\Appsolute\\MAMPPRO\\conf\\httpd.conf'
+[Sun May 29 21:49:44.497572 2022] [mpm_winnt:notice] [pid 23424:tid 484] AH00418: Parent: Created child process 25284
+[Sun May 29 21:49:45.888378 2022] [mpm_winnt:notice] [pid 25284:tid 376] AH00354: Child: Starting 64 worker threads.
+[Sun May 29 21:53:17.376978 2022] [mpm_winnt:notice] [pid 23424:tid 484] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 29 21:53:19.381023 2022] [mpm_winnt:notice] [pid 25284:tid 376] AH00364: Child: All worker threads have exited.
+[Sun May 29 21:53:19.904539 2022] [mpm_winnt:notice] [pid 23424:tid 484] AH00430: Parent: Child process 25284 exited successfully.
+[Sun May 29 22:04:56.117018 2022] [core:warn] [pid 38432:tid 520] AH00098: pid file D:/MAMP/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun May 29 22:04:56.230024 2022] [mpm_winnt:notice] [pid 38432:tid 520] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.0.2u mod_fcgid/2.3.9 PHP/7.4.16 configured -- resuming normal operations
+[Sun May 29 22:04:56.230024 2022] [mpm_winnt:notice] [pid 38432:tid 520] AH00456: Server built: Jul  6 2021 12:22:16
+[Sun May 29 22:04:56.230024 2022] [core:notice] [pid 38432:tid 520] AH00094: Command line: 'D:\\MAMP\\bin\\apache\\bin\\httpd.exe -d D:/MAMP/bin/apache -f C:\\Users\\Public\\Documents\\Appsolute\\MAMPPRO\\conf\\httpd.conf'
+[Sun May 29 22:04:56.238026 2022] [mpm_winnt:notice] [pid 38432:tid 520] AH00418: Parent: Created child process 23620
+[Sun May 29 22:04:57.638363 2022] [mpm_winnt:notice] [pid 23620:tid 368] AH00354: Child: Starting 64 worker threads.
+[Sun May 29 22:05:14.276321 2022] [mpm_winnt:notice] [pid 38432:tid 520] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 29 22:05:16.294764 2022] [mpm_winnt:notice] [pid 23620:tid 368] AH00364: Child: All worker threads have exited.
+[Sun May 29 22:05:16.800260 2022] [mpm_winnt:notice] [pid 38432:tid 520] AH00430: Parent: Child process 23620 exited successfully.
+[Sun May 29 22:06:19.282425 2022] [mpm_winnt:notice] [pid 36628:tid 344] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.0.2u mod_fcgid/2.3.9 PHP/7.4.16 configured -- resuming normal operations
+[Sun May 29 22:06:19.282425 2022] [mpm_winnt:notice] [pid 36628:tid 344] AH00456: Server built: Jul  6 2021 12:22:16
+[Sun May 29 22:06:19.282425 2022] [core:notice] [pid 36628:tid 344] AH00094: Command line: 'D:\\MAMP\\bin\\apache\\bin\\httpd.exe -d D:/MAMP/bin/apache -f C:\\Users\\Public\\Documents\\Appsolute\\MAMPPRO\\conf\\httpd.conf'
+[Sun May 29 22:06:19.290433 2022] [mpm_winnt:notice] [pid 36628:tid 344] AH00418: Parent: Created child process 35256
+[Sun May 29 22:06:20.722752 2022] [mpm_winnt:notice] [pid 35256:tid 168] AH00354: Child: Starting 64 worker threads.
+[Sun May 29 22:07:39.316546 2022] [mpm_winnt:notice] [pid 36628:tid 344] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 29 22:07:41.346009 2022] [mpm_winnt:notice] [pid 35256:tid 168] AH00364: Child: All worker threads have exited.
+[Sun May 29 22:07:41.445934 2022] [mpm_winnt:notice] [pid 36628:tid 344] AH00430: Parent: Child process 35256 exited successfully.
